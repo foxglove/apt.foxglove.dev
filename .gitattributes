@@ -1,0 +1,2 @@
+packages/** filter=lfs diff=lfs merge=lfs -text
+docs/**/*.deb filter=lfs diff=lfs merge=lfs -text
