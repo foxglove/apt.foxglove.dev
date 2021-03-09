@@ -1,18 +1,20 @@
 Package: foxglove-studio
-Priority: optional
-Section: utils
-Installed-Size: 268963
+Priority: extra
+Section: default
+Installed-Size: 296678
+Maintainer: Foxglove Technologies <support@foxglove.dev>
 Architecture: amd64
-Version: 0.0.0
-Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
-Recommends: pulseaudio | libasound2
-Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
-Filename: pool/main/f/foxglove-studio/foxglove-studio_0.0.0_amd64.deb
-Size: 68640572
-MD5sum: cc3508c8332440ecf95a07461587b884
-SHA1: e28ea8dc6723007935f2b0c289b47ed5e5292fc1
-SHA256: 675dacde506f07691bd3946e90af42da6cef56fa59c719a1b00eb35d5c7f4bb4
-SHA512: 070e344de2bf6850474ef91ca137fa20670df9717db941f25ff8fc30330b2af52459fd2c5fe050cac3065ccc52540ac6d242c0acf2b6d0ab4584749b38d11321
-Description: Integrated robotics visualization and debugging.
- Integrated robotics visualization and debugging.
+Version: 0.1.1
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Filename: pool/main/f/foxglove-studio/foxglove-studio_0.1.1_amd64.deb
+Size: 65766978
+MD5sum: 7a66dc1794503ef53870b7c88ba41b30
+SHA1: 2967b3a269cf9cf2ade1dd10b93b5275eaf47b19
+SHA256: aa4828bda68c625ec896d833838635c3c8a45a058c66f742c99ce56a11457294
+SHA512: 537d78ee87fbe95dacb9c11c680d22d1cf16ba81d09bf6e0b656e6c5722ffcd61b0dba5413a2556a1096e4759b646bae3ff12c083cdc8cae6b83fe353f308ff4
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/studio
+License: MPL-2.0
+Vendor: Foxglove Technologies <support@foxglove.dev>
 

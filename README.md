@@ -11,7 +11,7 @@ Here you find the scripts to manage our apt repository (hosted at http://apt.fox
 To deploy a new deb package:
 
 - Add the deb to the appropriate release channel (stable or canary) within the packages folder.
-- `make publish`
+- `make`
 - Commit any changes to git.
 - Push the changes.
 
