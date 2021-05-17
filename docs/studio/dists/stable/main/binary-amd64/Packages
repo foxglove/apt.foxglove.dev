@@ -1,6 +1,26 @@
 Package: foxglove-studio
 Priority: extra
 Section: default
+Installed-Size: 292611
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: amd64
+Version: 0.9.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Filename: pool/main/f/foxglove-studio/foxglove-studio-0.9.0-linux-amd64.deb
+Size: 73922060
+MD5sum: 8e8aecceda4b03b0c8c1f376513a7881
+SHA1: b8fe038e226928f853514982b54089a75285f8cc
+SHA256: 23dada2a736cec68bc96cf71b8e2a9765e93af114f29bfd000fd3b0c005cd59e
+SHA512: d18bceb9e9b623111ff823cc02ac99cc6c700858cf658cde3ae511f8460f24eb89d86a910c35fa64e97718d9ef5c55ffaa6f89b552c438b285752c7de70f1fd2
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+License: MPL-2.0
+Vendor: Foxglove Technologies <support@foxglove.dev>
+
+Package: foxglove-studio
+Priority: extra
+Section: default
 Installed-Size: 310527
 Maintainer: Foxglove Technologies <support@foxglove.dev>
 Architecture: amd64
@@ -12,26 +32,6 @@ MD5sum: e64865ef382593a046ec4d765c1b1a7c
 SHA1: 2b874f4ab08ace925b0fd7005fc807b97b58904e
 SHA256: c3282821b168d3110e945dc4bd1026fcc95fddfd33ec03f9664276c9f07b1f27
 SHA512: c851c1e778827f55ab95695074a709323cb5746c2d819e0266c4035967801b8ba9b82e1adaff7648f3c9f748ea085d285b07007c540006e548378a25d8f75eef
-Description: 
-  Integrated robotics visualization and debugging.
-Homepage: https://foxglove.dev/studio
-License: MPL-2.0
-Vendor: Foxglove Technologies <support@foxglove.dev>
-
-Package: foxglove-studio
-Priority: extra
-Section: default
-Installed-Size: 238238
-Maintainer: Foxglove Technologies <support@foxglove.dev>
-Architecture: amd64
-Version: 0.3.0
-Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
-Filename: pool/main/f/foxglove-studio/foxglove-studio-0.3.0-linux-amd64.deb
-Size: 63737972
-MD5sum: ecf93dd9ed3b801954f06c6be2aa9344
-SHA1: a40bfab4b153bfa3dd9c1ca00f596c011b474b5e
-SHA256: 10bb95bfd1223e35c28b931ce6043292da22b29f39b5a32b2ce1bd64e54954cf
-SHA512: a11b99817d2c2801de1d1c545449d96057bfa190948cce0f3e08d192840e309d130c28904078dcd9853b7c206f11a4d6e8835b154993905b055ae50f67ada3f5
 Description: 
   Integrated robotics visualization and debugging.
 Homepage: https://foxglove.dev/studio
