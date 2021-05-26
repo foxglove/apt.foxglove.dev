@@ -1,6 +1,26 @@
 Package: foxglove-studio
 Priority: extra
 Section: default
+Installed-Size: 286347
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: amd64
+Version: 0.10.1
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Filename: pool/main/f/foxglove-studio/foxglove-studio-0.10.1-linux-amd64.deb
+Size: 71838838
+MD5sum: 37c0829f000becb4c64674b4650faaa4
+SHA1: 1f61420dd731a66102b41a2f4cba5bb8e622fb8c
+SHA256: 5f841368d34a5509b7fb56f62dae568fd2cada2bb7c668bf94ad9cd04084bf02
+SHA512: 93b44695af91dcbdedc3e756b2e39aa99e3074bff4ca3256e0cb27d23a753dcbce1726a01041bf8a008ae53329eadc51f63af41f0f5ae00cd79aa4abc1bceee2
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+License: MPL-2.0
+Vendor: Foxglove Technologies <support@foxglove.dev>
+
+Package: foxglove-studio
+Priority: extra
+Section: default
 Installed-Size: 292611
 Maintainer: Foxglove Technologies <support@foxglove.dev>
 Architecture: amd64
@@ -15,26 +35,6 @@ SHA512: d18bceb9e9b623111ff823cc02ac99cc6c700858cf658cde3ae511f8460f24eb89d86a91
 Description: 
   Integrated robotics visualization and debugging.
 Homepage: https://foxglove.dev/
-License: MPL-2.0
-Vendor: Foxglove Technologies <support@foxglove.dev>
-
-Package: foxglove-studio
-Priority: extra
-Section: default
-Installed-Size: 310527
-Maintainer: Foxglove Technologies <support@foxglove.dev>
-Architecture: amd64
-Version: 0.6.0
-Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
-Filename: pool/main/f/foxglove-studio/foxglove-studio-0.6.0-linux-amd64.deb
-Size: 71243630
-MD5sum: e64865ef382593a046ec4d765c1b1a7c
-SHA1: 2b874f4ab08ace925b0fd7005fc807b97b58904e
-SHA256: c3282821b168d3110e945dc4bd1026fcc95fddfd33ec03f9664276c9f07b1f27
-SHA512: c851c1e778827f55ab95695074a709323cb5746c2d819e0266c4035967801b8ba9b82e1adaff7648f3c9f748ea085d285b07007c540006e548378a25d8f75eef
-Description: 
-  Integrated robotics visualization and debugging.
-Homepage: https://foxglove.dev/studio
 License: MPL-2.0
 Vendor: Foxglove Technologies <support@foxglove.dev>
 
