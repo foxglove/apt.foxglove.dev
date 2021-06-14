@@ -1,6 +1,26 @@
 Package: foxglove-studio
 Priority: extra
 Section: default
+Installed-Size: 278733
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: amd64
+Version: 0.11.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Filename: pool/main/f/foxglove-studio/foxglove-studio-0.11.0-linux-amd64.deb
+Size: 69747062
+MD5sum: 8d3018a28dfa46a651793ab38255e975
+SHA1: dd7aa59c32f4275112d541ff84f76203ba6bab98
+SHA256: ee8726c2dd0b177d6ba2270a6597e2b1f58edfc4eae6f9e8b3782e2ed6232bde
+SHA512: 4aeb85d4cd66ea30ff996a98e95db58b6e01c6036309090f2ea1e7a23fbe3a2c93d126829b45f536bda1dd4c61c88f6ebfa9978d989c901d98476b7997f467ff
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+Vendor: Foxglove Technologies <support@foxglove.dev>
+License: MPL-2.0
+
+Package: foxglove-studio
+Priority: extra
+Section: default
 Installed-Size: 287570
 Maintainer: Foxglove Technologies <support@foxglove.dev>
 Architecture: amd64
@@ -34,9 +54,9 @@ SHA256: 5f841368d34a5509b7fb56f62dae568fd2cada2bb7c668bf94ad9cd04084bf02
 SHA512: 93b44695af91dcbdedc3e756b2e39aa99e3074bff4ca3256e0cb27d23a753dcbce1726a01041bf8a008ae53329eadc51f63af41f0f5ae00cd79aa4abc1bceee2
 Description: 
   Integrated robotics visualization and debugging.
+License: MPL-2.0
 Homepage: https://foxglove.dev/
 Vendor: Foxglove Technologies <support@foxglove.dev>
-License: MPL-2.0
 
 Package: foxglove-studio
 Priority: extra
@@ -54,7 +74,7 @@ SHA256: 23dada2a736cec68bc96cf71b8e2a9765e93af114f29bfd000fd3b0c005cd59e
 SHA512: d18bceb9e9b623111ff823cc02ac99cc6c700858cf658cde3ae511f8460f24eb89d86a910c35fa64e97718d9ef5c55ffaa6f89b552c438b285752c7de70f1fd2
 Description: 
   Integrated robotics visualization and debugging.
-Vendor: Foxglove Technologies <support@foxglove.dev>
 License: MPL-2.0
+Vendor: Foxglove Technologies <support@foxglove.dev>
 Homepage: https://foxglove.dev/
 
