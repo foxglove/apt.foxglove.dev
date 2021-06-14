@@ -9,7 +9,7 @@ publish-%:
 	${MAKE} clean
 	${APTLY} repo create -distribution $* $*
 	${APTLY} repo add $* packages/$*/*
-	${APTLY} publish -gpg-key="${GPG_KEY}" repo $* filesystem:docs:studio
+	${APTLY} publish -gpg-key="${GPG_KEY}" repo $* filesystem:public:studio
 	${MAKE} clean
 
 .PHONY: clean
