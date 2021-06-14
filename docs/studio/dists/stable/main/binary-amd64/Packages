@@ -14,9 +14,9 @@ SHA256: 853a3a3b93b104b015d4e9c5174bfd29665a2110b3c9c220e748108213903306
 SHA512: ab0191968116dce3a81ec41047001c4b81e93473e27d2f1076c223e559f3ed1b69072e158bb8798594ae3f8ec4b9729fd6f5c07b7dc5b8d0f627286f3efec6d5
 Description: 
   Integrated robotics visualization and debugging.
-Homepage: https://foxglove.dev/
-License: MPL-2.0
 Vendor: Foxglove Technologies <support@foxglove.dev>
+License: MPL-2.0
+Homepage: https://foxglove.dev/
 
 Package: foxglove-studio
 Priority: extra
@@ -35,8 +35,8 @@ SHA512: 93b44695af91dcbdedc3e756b2e39aa99e3074bff4ca3256e0cb27d23a753dcbce1726a0
 Description: 
   Integrated robotics visualization and debugging.
 Homepage: https://foxglove.dev/
-License: MPL-2.0
 Vendor: Foxglove Technologies <support@foxglove.dev>
+License: MPL-2.0
 
 Package: foxglove-studio
 Priority: extra
@@ -54,7 +54,7 @@ SHA256: 23dada2a736cec68bc96cf71b8e2a9765e93af114f29bfd000fd3b0c005cd59e
 SHA512: d18bceb9e9b623111ff823cc02ac99cc6c700858cf658cde3ae511f8460f24eb89d86a910c35fa64e97718d9ef5c55ffaa6f89b552c438b285752c7de70f1fd2
 Description: 
   Integrated robotics visualization and debugging.
-Homepage: https://foxglove.dev/
-License: MPL-2.0
 Vendor: Foxglove Technologies <support@foxglove.dev>
+License: MPL-2.0
+Homepage: https://foxglove.dev/
 
