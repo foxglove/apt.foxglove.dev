@@ -38,9 +38,8 @@ jobs:
           set -x
           git config user.name "foxbot"
           git config user.email "contact@foxglove.dev"
-          git checkout --orphan pages
-          git rm -r --cached .
-          git add public README.md
+          git add public
           git status
-          git commit -m "[skip ci] Aptly publish"
-          git push --force origin pages:pages
+          git commit -m "Aptly Publish"
+          git subtree split --prefix public --branch gh-pages
+          git push --force origin gh-pages:gh-pages
