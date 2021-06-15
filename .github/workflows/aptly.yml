@@ -1,8 +1,13 @@
 name: Aptly
 
 on:
-  pull_request:
+  push:
     branches: [main]
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Branch to publish"
+        default: "main"
 
 jobs:
   test:
@@ -13,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
+          ref: ${{ github.event.inputs.commit || github.event.ref }}
 
       - run: sudo apt-get install -qq aptly
 
@@ -28,12 +33,14 @@ jobs:
 
       - run: make
 
-      - name: Run git commit
+      - name: Publish
         run: |
           set -x
           git config user.name "foxbot"
           git config user.email "contact@foxglove.dev"
-          git add --all
+          git checkout --orphan pages
+          git rm -r --cached .
+          git add public README.md
           git status
           git commit -m "[skip ci] Aptly publish"
-          git push
+          git push --force origin pages:pages

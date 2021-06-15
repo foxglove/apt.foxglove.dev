@@ -4,15 +4,14 @@ Here you find the scripts to manage our apt repository (hosted at http://apt.fox
 
 ## How it works
 
-[aptly](https://www.aptly.info/) packages the debs from the packages folder into their appropriate repos and publishes these repos to the `docs` folder. Github pages is configured to serve the docs folder as static files under the `apt.foxglove.dev` cname.
+- GitHub Actions runs [Aptly](https://www.aptly.info/) on every commit to the `main` branch.
+- Aptly packages the debs from the `packages` folder into their appropriate repos.
+- The generated repos are published to the `pages` branch and served by Github Pages under the `apt.foxglove.dev` cname.
 
 ## Deploying
 
 To deploy a new deb package:
 
 - Add the deb to the appropriate release channel (stable or canary) within the packages folder.
-- `make`
-- Commit any changes to git.
-- Push the changes.
-
-Note: Publish requires the Foxglove Software Packaging gpg key.
+- Commit changes to main and wait for GitHub Actions to run.
+- Verify results on the `pages` branch.

@@ -17,8 +17,8 @@
   "ppaCodename": "",
   "skipContentsPublishing": false,
   "FileSystemPublishEndpoints": {
-    "docs": {
-      "rootDir": "docs",
+    "public": {
+      "rootDir": "public",
       "linkMethod": "copy"
     }
   },
