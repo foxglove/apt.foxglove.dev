@@ -1,0 +1,63 @@
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 318951
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 2.14.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-2.14.0-linux-arm64.deb
+Size: 80312970
+MD5sum: 3e55fd57c02aeaf5eafbbd2356ae3ee6
+SHA1: efc47f863ada6597995cf04cdf1dcd57a9ed08b8
+SHA256: 67ff6850e2138f35ce3e7017249d1c866724464798160463985c1c752706c50d
+SHA512: cc411368320365b37daca74111dea945c7c98432fc2d6b26edd5b74276618bf37688b5d95ecf7a4358442316449c9a38c2473d6301000862f120d9b11accf9d4
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+Vendor: Foxglove Technologies <support@foxglove.dev>
+License: unknown
+
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 318319
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 2.13.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-2.13.0-linux-arm64.deb
+Size: 80129638
+MD5sum: b15c8f3f9f854f9ffe35de0da694daef
+SHA1: b8ce33bd3b9cf7a3da1c2abbbd7585642b8a5ff1
+SHA256: 1ad9ef5ef02c48d9f18d6c2af44d6f6c6f4204a9b768b911ee654df4eadeb98a
+SHA512: 277b1bf67f55f1380bed7c5b5491a5d874f3282aff125f42bcf54f4bb64fe15542d9a3688d6fd0f77caf596d0779ae665c38f25a1b6b6c2026c3bf73404f3c0d
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+Vendor: Foxglove Technologies <support@foxglove.dev>
+License: unknown
+
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 310869
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 2.12.1
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-2.12.1-linux-arm64.deb
+Size: 78609208
+MD5sum: f32a3001c62914964f1338b270a93f3f
+SHA1: e44ef1f1fa67651be33d4cef8338b68fe54fe5e0
+SHA256: 2ece6eec697628fcd285d1c6782ac7f28e1c0a15839c9220760a5538a2b57a70
+SHA512: deeb105e92e81ba7d629d628c8c0dbf3e8065b5a12d39a8b480b1495ebddf2475a717d39ea1ad4cb5f498f9f00b6560f8ff09a1ec99edfc088a99887acf118b0
+Description: 
+  Integrated robotics visualization and debugging.
+Vendor: Foxglove Technologies <support@foxglove.dev>
+License: unknown
+Homepage: https://foxglove.dev/
+
