@@ -1,0 +1,105 @@
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 387298
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 3.0.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-3.0.0-linux-arm64.deb
+Size: 93563236
+MD5sum: 01d616af5e47c96b600d41a03781fdb0
+SHA1: 8c0a1007e80415ebc3079899fc85994e9c8a8947
+SHA256: 135a1e951c94f8d3509cf405030b3ade7159cfb9544b17089a9e4a84f9781164
+SHA512: ebd06ad390401cb20739ab679eb36ee53398bc93f7616dd1bf1c59d239495cc963dd96adfc0831ddde7fa66a3a11c08c206cdec717786615d0d09d0ee2bdc0aa
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+License: unknown
+Vendor: Foxglove Technologies <support@foxglove.dev>
+
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 385380
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 2.59.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-2.59.0-linux-arm64.deb
+Size: 93412030
+MD5sum: a00e39acd73242b03f969b3965a83178
+SHA1: b6d9bf18146298e3a83478b7bf355413ca5804e4
+SHA256: 6de0399f8dbae78cdff11d73c2cbcd07040678fffc6284d6d5d01477e8ac8db0
+SHA512: 158478aa0cf0bc4cb21b3907328419b4f39d5ac740347d26c2fcbc782c346cb491ae5b7cf37e3dbdec7da23b8f18fa2d5745f16792e13a8310b0a5a39a37f1a9
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+License: unknown
+Vendor: Foxglove Technologies <support@foxglove.dev>
+
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 384868
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 2.58.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-2.58.0-linux-arm64.deb
+Size: 93367730
+MD5sum: 8a95be938664c04abd72497210d316d8
+SHA1: 00c48b78997b05df7864991a823a635e6b75c043
+SHA256: 0be55dff462152737b2d7d0e5f3aadea0611f20612db90a5788325598348515b
+SHA512: 7f3e7f4c123d9cd41ccd0bda376cdec67a24490c9ebcb97bcd74990cf2540ecdbd06cf8784d9ed9ba32330974bd5b80b70e49b7013a5c27fe2587681b3a57cef
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+License: unknown
+Vendor: Foxglove Technologies <support@foxglove.dev>
+
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 384977
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 2.57.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-2.57.0-linux-arm64.deb
+Size: 93385970
+MD5sum: 2a21ec3d0bd0edf9e5ce19ea6033aade
+SHA1: 49e53aa2e8978ebe2ee8335ecbe773015ad5ea5d
+SHA256: 180499d7a80c6fd8e0a0f48a3a4a54913d81ccdac40138451c93dbe3969eb581
+SHA512: f447da9d5e0dc29a35eafcb729286228bca0bde7f4a9952d8ed81f71532b99d8db870edb6fda795fdec49e2fc23317f49639cf04ce82f2dc76e041ce78fd89a4
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+License: unknown
+Vendor: Foxglove Technologies <support@foxglove.dev>
+
+Package: foxglove-studio
+Priority: optional
+Section: default
+Installed-Size: 378309
+Maintainer: Foxglove Technologies <support@foxglove.dev>
+Architecture: arm64
+Version: 2.56.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0
+Recommends: libappindicator3-1
+Filename: pool/main/f/foxglove-studio/foxglove-studio-2.56.0-linux-arm64.deb
+Size: 89702564
+MD5sum: d88042a6b044dcc1dd94ef12f206c055
+SHA1: f0d201af79fceb55daaae2d60a2374036b5e565c
+SHA256: 9ad478b6ef379faec7d675c232c048b8ad3a952a6722175def15196b58879240
+SHA512: 0d09656db4a4c7a05fc151adfc6e1bdbbd37404c4e3a6194b576af04a3c00ebb1eb6ff407c3ee8a63ed6e0414ca9804776912595bb200e893b2e20ce0d60a72f
+Description: 
+  Integrated robotics visualization and debugging.
+Homepage: https://foxglove.dev/
+License: unknown
+Vendor: Foxglove Technologies <support@foxglove.dev>
+
